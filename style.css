@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+
+.textpatern {
+    font-family: Libre Baskerville;
+    color: white;
+    text-align: center;
+    margin-left: 25%;
+    width: 50%;
+    margin-top: 100px;
+}
+
+.textpatern img{
+    border: 5px solid white;
+    width: 50%;
+}
+
+
